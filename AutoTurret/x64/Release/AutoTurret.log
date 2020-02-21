@@ -1,8 +1,0 @@
-﻿  dllmain.cpp
-C:\Users\wrc8yn1chk\source\repos\AutoTurret\AutoTurret\dllmain.cpp(119,53): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-  Generating code
-  1 of 1537 functions (<0.1%) were compiled, the rest were copied from previous compilation.
-    0 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
-  Finished generating code
-  AutoTurret.vcxproj -> C:\Users\wrc8yn1chk\source\repos\AutoTurret\x64\Release\AutoTurret.dll
